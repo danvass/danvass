@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+You can find me on [twitter @thedanvass](https://twitter.com/thedanvass) talking about [Vector AI](https://getvectorai.com).
 <!--
 **danvass/danvass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
